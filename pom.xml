@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.yakamy</groupId>
-    <artifactId>curcuitbreaker</artifactId>
+    <artifactId>circuitbreaker</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>curcuitbreaker</name>
     <description>Demo project for Spring Boot</description>
